@@ -1,1 +1,3 @@
 Our project performing git bash' work flow
+
+Now we try to update it
